@@ -1,0 +1,23 @@
+# dados 
+data/raw/
+data/processed/
+
+# ambiente virtual
+.venv/
+
+# jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# sistema operacional
+.DS_Store
+Thumbs.db
+
+# vscode
+.vscode/

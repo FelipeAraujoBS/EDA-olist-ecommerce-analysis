@@ -89,7 +89,7 @@ Abra o JupyterLab ou VS Code e rode os notebooks na sequência numérica.
 
 - [x] **01 · Qualidade dos dados** — carregamento dos 9 datasets, mapeamento de nulos, duplicatas e tipos. Identificados padrões esperados: datas ausentes em pedidos cancelados, campos opcionais de reviews sem preenchimento, e 261k duplicatas por design na tabela de geolocalização.
 - [x] **02 · Análise de pedidos** — volume por período, sazonalidade, tempo de entrega por estado, correlação entre atraso e avaliação.
-- [ ] **03 · Análise de produtos** — categorias mais vendidas, ticket médio, relação entre peso e frete, avaliação por categoria.
+- [x] **03 · Análise de produtos** — categorias mais vendidas, ticket médio, relação entre peso e frete, avaliação por categoria.
 - [ ] **04 · Análise de clientes** — distribuição geográfica, frequência de compra, segmentação RFM.
 - [ ] **05 · Insights e conclusões** — consolidação dos principais achados com recomendações acionáveis.
 
